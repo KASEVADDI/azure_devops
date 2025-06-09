@@ -1,2 +1,2 @@
-# azure_devops
+# aws_services
 this repo created for pracise
